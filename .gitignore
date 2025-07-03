@@ -1,0 +1,7 @@
+leafny-key
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.2.0/linux_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.2.0/linux_amd64/terraform-provider-aws_v6.2.0_x5
+leafny-key.pub
